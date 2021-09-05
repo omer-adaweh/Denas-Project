@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/Screen Shot 2020-03-27 at 5.38.43 PM.png</file>
+        <file>img/speaker-emoji-png-4.png</file>
+        <file>img/4139971-free-hourglass-icon-png-183187-download-hourglass-icon-png-183187-png-sand-timer-655_980.png</file>
+        <file>img/hourglass.jpg</file>
+        <file>img/Screen Shot 2020-03-27 at 8.20.38 PM.png</file>
+        <file>img/Screen Shot 2020-03-30 at 3.38.16 PM.png</file>
+    </qresource>
+</RCC>
